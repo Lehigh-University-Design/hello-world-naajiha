@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+
+    
+}
+
+h1{
+    color: aqua;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+/* style just the Pinterest link */
+.pinterest-link {
+    color: #e60023;
+    text-decoration: none;
+    font-weight: bold;
+    background: #ffe6ea;
+    padding: 6px 10px;
+    border-radius: 6px;
+}
+.pinterest-link:hover {
+    background: #ffd1da;
+    text-decoration: underline;
+}
